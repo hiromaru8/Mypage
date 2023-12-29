@@ -23,9 +23,9 @@
   [Topへ戻る](../index.md)
 
   --------------------------------------------------------------------------
-  FPGAやZYNQに関するRTL開発関係。主にAMD(旧Xilinx)。  
-  ファームウェア/ソフトウェア開発等は[Zynq](../Zynq/Zynq.md)または[C/C++](../C_Cplusplus/C_Cplusplus.md)  
-  IPコアを制御するソフトウェアは[Zynq](../Zynq/Zynq.md)にまとめる
+  - FPGAやZYNQに関するRTL開発関係。主にAMD(旧Xilinx)。  
+  - ファームウェア/ソフトウェア開発等は[Zynq](../Zynq/Zynq.md)または[C/C++](../C_Cplusplus/C_Cplusplus.md)にまとめる。  
+  - IPコアを制御するソフトウェアは[Zynq](../Zynq/Zynq.md)にまとめる。
   
   --------------------------------------------------------------------------
 </div>

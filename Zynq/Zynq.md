@@ -33,11 +33,10 @@
 <div class="column-one">
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
+# 開発環境
   <!-- left--------------------------------- -->
   <div class="column-left">
-
-　<!-- 外部サイトの場合 -->
-  <!-- 1. <a href="https://qiita.com/IntenF/items/3f88d07fb41422e0f4e7" target="_blank">オフライン環境でpython仮想環境を作りたい（Anacondaを使わない！）</a>	 -->
+  1. <a href="https://qiita.com/nahitafu/items/5a7b42f9cc2e26ffa3b9" target="_blank">ZYNQのLinuxアプリをVSCodeでビルドする方法</a>	
 
 
   </div>
