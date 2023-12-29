@@ -37,6 +37,8 @@
   1. [Linux](Linux/Linux.md)
   2. [Python](python/python.md)
   3. [Markdown](markdown/markdown.md)
+  4. [C/C++](C_Cplusplus/C_Cplusplus.md)
+  4. [FPGA](FPGA/FPGA.md)
 
   </div>
   <div class="column-right">
