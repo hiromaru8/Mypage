@@ -49,7 +49,6 @@
 
   ## OS等
   1. [Linux](Linux/Linux.md)
-  1. [Zynq](Zynq/Zynq.md)
    
 
   </div>
@@ -75,6 +74,7 @@
   <div class="column-right">
 
   ## デバイス
+  1. [Zynq](Zynq/Zynq.md)  
   1. [RaspberryPi](RaspberryPi/RaspberryPi.md)
 
   </div>
