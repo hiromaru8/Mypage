@@ -98,12 +98,13 @@
 <div class="column-one">
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
-  # ブログ
+  # 参考ブログ
   <!-- left--------------------------------- -->
   <div class="column-left">
   </div>
 
   1. <a href="https://www.paltek.co.jp/techblog/tag/fpga" target="_blank">株式会社PALTEK > TECHブログ > FPGA</a>	
+  1. <a href="https://www.acri.c.titech.ac.jp/wordpress/" target="_blank">ACRiブログ (FPGA, AI, IoT などの記事を発信)</a>	
 
   </div>
   <!-- right--------------------------------- -->
