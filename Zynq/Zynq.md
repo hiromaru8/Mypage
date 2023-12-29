@@ -23,10 +23,8 @@
   [Topへ戻る](../index.md)
 
   --------------------------------------------------------------------------
-  FPGAやZYNQに関するRTL開発関係。主にAMD(旧Xilinx)。  
-  ファームウェア/ソフトウェア開発等は[Zynq](../Zynq/Zynq.md)または[C/C++](../C_Cplusplus/C_Cplusplus.md)  
-  IPコアを制御するソフトウェアは[Zynq](../Zynq/Zynq.md)にまとめる
-  
+  ZYNQの開発に関すること
+
   --------------------------------------------------------------------------
 </div>
 
@@ -38,7 +36,8 @@
   <!-- left--------------------------------- -->
   <div class="column-left">
 
-  1. <a href="https://qiita.com/nahitafu/items/5bebc70c2fe14bed28dc" target="_blank">VivadoでRTLモジュールを使う場合のリセットの極性</a>	
+　<!-- 外部サイトの場合 -->
+  <!-- 1. <a href="https://qiita.com/IntenF/items/3f88d07fb41422e0f4e7" target="_blank">オフライン環境でpython仮想環境を作りたい（Anacondaを使わない！）</a>	 -->
 
 
   </div>

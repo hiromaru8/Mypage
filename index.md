@@ -31,17 +31,26 @@
 <div class="column-one">
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
+  <!-- left--------------------------------- -->
   <div class="column-left">
 
   # プログラミング
-  1. [Linux](Linux/Linux.md)
-  2. [Python](python/python.md)
-  3. [Markdown](markdown/markdown.md)
-  4. [C/C++](C_Cplusplus/C_Cplusplus.md)
-  4. [FPGA](FPGA/FPGA.md)
+  1. [Python](python/python.md)
+  1. [Markdown](markdown/markdown.md)
+  1. [C/C++](C_Cplusplus/C_Cplusplus.md)
+
+  # ハード系
+  1. [FPGA](FPGA/FPGA.md)
 
   </div>
+  <!-- right--------------------------------- -->
   <div class="column-right">
+
+  # OS等
+  1. [Linux](Linux/Linux.md)
+  2. [Zynq](Zynq/Zynq.md)
+   
+
   </div>
 
 
