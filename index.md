@@ -42,6 +42,7 @@
 
   ## ツール
   1. [VS Code](VSCode/vscode.md)
+  1. [Git](git/git.md)
 
   </div>
   <!-- right--------------------------------- -->
