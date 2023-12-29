@@ -34,17 +34,12 @@
   <div class="column-left">
 
   # プログラミング
-  <!-- 1. <a href="Linux\Linux.md" target="_self">Linux</a>
-  2. <a href="python\python.md" target="_self">Python</a>
-  3. <a href="markdown\markdown.md" target="_self">Markdown</a>	 -->
   1. [Linux](Linux/Linux.md)
   2. [Python](python/python.md)
   3. [Markdown](markdown/markdown.md)
 
   </div>
   <div class="column-right">
-
-
   </div>
 
 
