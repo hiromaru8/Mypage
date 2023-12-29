@@ -54,6 +54,7 @@
 
   # 雑多なメモ
   ## リンクの表示先  
+  1. <a href="https://web-camp.io/magazine/archives/82442" target="_blank">知らないと危険！target=”_blank”でリンク挿入しよう</a>  
   HTMLで以下のように、aタグにtarget属性を指定することでリンクの表示先の指定ができます。
 
   <a href="リンク先のURL" target="リンクの表示先の指定"></a>
@@ -64,7 +65,9 @@
   3. インラインフレーム内で開く
   <ul>
   <li><a href="../index.md" target="sample">Topを表示</a></li>
+  <li><a href="../python\python.md" target="sample">pythonを表示</a></li>
   </ul>
-  <div><iframe src="../index.md" width="250" height="80" name="sample">代替内容</iframe></div>
-  1. 新しいウィンドウで開く：window.open
+  <div><iframe src="../index.md" width="500" height="100" name="sample">代替内容</iframe></div>
+
+  4. 新しいウィンドウで開く：window.open
 </div>
