@@ -26,8 +26,8 @@
 <div class="column-left">
 
 # プログラミング
-1. <a href="python\python.md" target="_blank">python</a>
-2. <a href="markdown\markdown.md" target="_blank">Markdown</a>	
+1. <a href="python\python.md" target="_self">python</a>
+2. <a href="markdown\markdown.md" target="_self">Markdown</a>	
 
 
 
