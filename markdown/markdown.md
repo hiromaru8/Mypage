@@ -23,7 +23,7 @@
   [Topへ戻る](../index.md)
 
   ------------------------------------------------------------------------------------------------------
-  Markdownチートシート  
+  Markdownに関すること  
 
   ------------------------------------------------------------------------------------------------------
 </div>
@@ -37,7 +37,7 @@
   <!-- left--------------------------------- -->
   <div class="column-left">
 
-  1. <a href="https://qiita.com/ossyaritoori/items/9f38113847ee65e68e76" target="_blank">Markdownチートシート</a>	
+  1. <a href="https://qiita.com/Qiita/items/c686397e4a0f4f11683d" target="_blank">Markdown記法 チートシート</a>	
   2. <a href="https://qiita.com/ossyaritoori/items/9f38113847ee65e68e76" target="_blank">Markdownで2カラムの文書を作りたい</a>	
   </div>
 
