@@ -1,6 +1,5 @@
-<link href="style/mystyle.css" rel="stylesheet"></link>
-
-<!-- <style>
+<!-- <link href="style/mystyle.css" rel="stylesheet"></link> -->
+<style>
 .column-left{
   float: left;
   width: 47.5%;
@@ -16,7 +15,7 @@
   width: 100%;
   text-align: left;
 }
-</style> -->
+</style>
 
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <!-- ヘッダ部 -->
