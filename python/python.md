@@ -62,6 +62,8 @@
   ### コマンドラインオプション
   1. <a href="https://qiita.com/oohira/items/308bbd33a77200a35a3d" target="_blank">Pythonのargparseでサブコマンドを実現する</a>	
   1. <a href="https://qiita.com/yuji38kwmt/items/c7c4d487e3188afd781e" target="_blank">argparse：ヘルプのフォーマットクラスを利用して、ヘルプメッセージを改善する（メッセージの改行、デフォルト値/requiredの表示）</a>	
+  ### 標準入力
+  1. <a href="https://shuzo-kino.hateblo.jp/entry/2022/09/05/234617" target="_blank">標準入力から画像ファイルを読んでcv2に渡す</a>	
 
   </div>
   <!-- right--------------------------------- -->
