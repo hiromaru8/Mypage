@@ -1,20 +1,7 @@
-<style>
-.column-left{
-  float: left;
-  width: 47.5%;
-  text-align: left;
-}
-.column-right{
-  float: right;
-  width: 47.5%;
-  text-align: left;
-}
-.column-one{
-  float: left;
-  width: 100%;
-  text-align: left;
-}
-</style>
+---
+layout: default
+title: Linux
+---
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <!-- ヘッダ部 -->
 <div class="column-one">
