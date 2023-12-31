@@ -1,15 +1,23 @@
-.column-left{
-  float: left;
-  width: 47.5%;
-  text-align: left;
+/* 全体のスタイル */
+body {
+  margin: 0;
+  padding: 0;
+  background: #242323 ;
+  color: #eaeaea;
+  font: 16px;
+  line-height: 1.5;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
-.column-right{
-  float: right;
-  width: 47.5%;
-  text-align: left;
+
+/* ヘッダのスタイル */
+h1 {
+  text-align: center;
+  border-bottom: 2px solid #333;
+  padding: 10px 0;
+  margin: 0;
+  background: #b2b1b1;/*背景色*/
 }
-.column-one{
-  float: left;
-  width: 100%;
-  text-align: left;
+h2 {
+  width: 50%;
+  margin: 0;
 }
