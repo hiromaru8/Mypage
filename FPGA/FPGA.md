@@ -48,13 +48,12 @@ title: FPGA
   1. <a href="http://nahitafu.cocolog-nifty.com/nahitafu/2019/05/post-60422b.html" target="_blank">Vivadoのプロジェクトをgitで管理する最小限は何か</a>	  
   1. <a href="https://marsee101.blog.fc2.com/blog-entry-4545.html" target="_blank">なひたふさんの「Vivadoのプロジェクトをgitで管理する最小限は何か」を参考にしてVivado のプロジェクトをTCLファイルで復元した</a>	  
 
-  ## Mymemo
-  1. [メモ帳](Vivado_manage_prg.md)
   </div>
   <!-- right--------------------------------- -->
   <div class="column-right">
 
-  ## 
+  ## Mymemo
+  1. [メモ帳](Vivado_manage_prg.md)
   </div>
 </div>
 
@@ -100,6 +99,12 @@ title: FPGA
     - mod 演算器  
     - RSA 暗号
 
+  ## TCL
+  1. <a href="https://blog.it-see.net/it-dokata/tcl-tk/proc/" target="_blank">Tcl – 手続きのモジュール化 -proc,return-</a>	
+  1. <a href="https://support.xilinx.com/s/article/56501?language=ja" target="_blank">AR# 56501: Vivado - Vivado コマンド ライン モードで argv/argc を Tcl に渡す方法</a>	
+
+
+
   </div>
   <!-- right--------------------------------- -->
   <div class="column-right">
@@ -133,6 +138,9 @@ title: FPGA
   # 雑多なメモ
   <!-- left--------------------------------- -->
   <div class="column-left">
+  
+
+  
   </div>
   </div>
   <!-- right--------------------------------- -->
