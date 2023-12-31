@@ -42,16 +42,19 @@ title: FPGA
   <!-- left--------------------------------- -->
   <div class="column-left">
   
-  # プロジェクト管理
+  ## プロジェクト管理 参考ページ
   1. <a href="https://qiita.com/nahitafu/items/b8bfee046b197c0fb833" target="_blank">Vivadoのプロジェクトをgitで管理するための最小限のファイル構成</a>	
   1. <a href="https://github.com/tokuden/NahiViva" target="_blank">NahiViva (なひビバ)</a>	
   1. <a href="http://nahitafu.cocolog-nifty.com/nahitafu/2019/05/post-60422b.html" target="_blank">Vivadoのプロジェクトをgitで管理する最小限は何か</a>	  
   1. <a href="https://marsee101.blog.fc2.com/blog-entry-4545.html" target="_blank">なひたふさんの「Vivadoのプロジェクトをgitで管理する最小限は何か」を参考にしてVivado のプロジェクトをTCLファイルで復元した</a>	  
 
+  ## Mymemo
+  1. [メモ帳](Vivado_manage_prg.md)
   </div>
   <!-- right--------------------------------- -->
   <div class="column-right">
 
+  ## 
   </div>
 </div>
 
