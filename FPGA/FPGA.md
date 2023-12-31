@@ -38,6 +38,28 @@ title: FPGA
 <div class="column-one">
 <!-- ---------------------------------------------------------------------------------------------------- -->
 
+# Vivadoテクニック集
+  <!-- left--------------------------------- -->
+  <div class="column-left">
+  
+  # プロジェクト管理
+  1. <a href="https://qiita.com/nahitafu/items/b8bfee046b197c0fb833" target="_blank">Vivadoのプロジェクトをgitで管理するための最小限のファイル構成</a>	
+  1. <a href="https://github.com/tokuden/NahiViva" target="_blank">NahiViva (なひビバ)</a>	
+  1. <a href="http://nahitafu.cocolog-nifty.com/nahitafu/2019/05/post-60422b.html" target="_blank">Vivadoのプロジェクトをgitで管理する最小限は何か</a>	  
+  1. <a href="https://marsee101.blog.fc2.com/blog-entry-4545.html" target="_blank">なひたふさんの「Vivadoのプロジェクトをgitで管理する最小限は何か」を参考にしてVivado のプロジェクトをTCLファイルで復元した</a>	  
+
+  </div>
+  <!-- right--------------------------------- -->
+  <div class="column-right">
+
+  </div>
+</div>
+
+<!-- ---------------------------------------------------------------------------------------------------- -->
+<!-- セクション -->
+<div class="column-one">
+<!-- ---------------------------------------------------------------------------------------------------- -->
+
 # デジタル・デザイン・ノート
   <!-- left--------------------------------- -->
   <div class="column-left">
@@ -90,7 +112,6 @@ title: FPGA
   # 参考ブログ
   <!-- left--------------------------------- -->
   <div class="column-left">
-  </div>
 
   1. <a href="https://www.paltek.co.jp/techblog/tag/fpga" target="_blank">株式会社PALTEK > TECHブログ > FPGA</a>	
   1. <a href="https://www.acri.c.titech.ac.jp/wordpress/" target="_blank">ACRiブログ (FPGA, AI, IoT などの記事を発信)</a>	
@@ -100,6 +121,7 @@ title: FPGA
   <div class="column-right">
   </div>
 </div>
+
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <!-- セクション -->
 <div class="column-one">
