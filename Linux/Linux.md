@@ -26,10 +26,12 @@ title: Linux
   ## Ubuntu
   <!-- left--------------------------------- -->
   <div class="column-left">
-  
+
+  ### パッケージ管理
   1. <a href="https://qiita.com/karaage0703/items/f01db1cf49b151022b7c" target="_blank">重要なのに忘れがちなapt関係のコマンドのメモ</a>
-  <!-- right--------------------------------- -->
   </div>
+
+  <!-- right--------------------------------- -->
   <div class="column-right">
 
   </div>
@@ -48,6 +50,7 @@ title: Linux
 
   1. <a href="https://qiita.com/yumenomatayume/items/bd36f3c51cce33191f51" target="_blank">Linuxで動かすスクリプトの1行目の設定</a>
   </div>
+
   <!-- right--------------------------------- -->
   <div class="column-right">
 
