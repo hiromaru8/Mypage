@@ -44,7 +44,6 @@ title: Template
   <!-- left--------------------------------- -->
   <div class="column-left">
   </div>
-  </div>
   <!-- right--------------------------------- -->
   <div class="column-right">
   </div>
