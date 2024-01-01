@@ -26,6 +26,7 @@ title: C/C++
   <div class="column-left">
 
   ## Windows
+  1. <a href="https://code.visualstudio.com/docs/cpp/introvideos-cpp" target="_blank">Get started with C++ in Visual Studio Code</a>	
   1. <a href="https://qiita.com/ochx/items/01449d09777187790ee4" target="_blank">C / C++をVSCodeで開発するための環境構築</a>	
 
 
