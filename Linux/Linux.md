@@ -26,6 +26,7 @@ title: Linux
   ## Ubuntu
   <!-- left--------------------------------- -->
   <div class="column-left">
+  
   1. <a href="https://qiita.com/karaage0703/items/f01db1cf49b151022b7c" target="_blank">重要なのに忘れがちなapt関係のコマンドのメモ</a>
   <!-- right--------------------------------- -->
   </div>
