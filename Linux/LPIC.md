@@ -57,9 +57,9 @@ title: LPIC
   </div>
   <!-- right--------------------------------- -->
   <div class="column-right">
-  
-    ### SysVinit
-    ### systemd
+
+  ### SysVinit
+   ### systemd
 
   </div>
 </div>
