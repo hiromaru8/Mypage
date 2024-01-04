@@ -144,3 +144,31 @@ a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
+
+/* Table Styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  background: #504e4e; /* 表の背景色 */
+  color: #eaeaea;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #b5e853;
+}
+
+th {
+  background: #242323; /* 表のヘッダー背景色 */
+}
+
+/* セルの奇数行の背景色を変更 */
+tr:nth-child(odd) {
+  background: #504e4e; /* セルの奇数行の背景色 */
+}
+
+/* セルの偶数行の背景色を変更 */
+tr:nth-child(even) {
+  background: #403e3e; /* セルの偶数行の背景色 */
+}
