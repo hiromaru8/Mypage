@@ -130,6 +130,9 @@ title: LPIC
   LVMにより、ディスクの取り扱いやバックアップなど柔軟になる。[LPICレベル２](#LPIC_Level2)の内容
 
   ### ブートローダのインストール
+  代表的なLINUXのブートローダは ***GRUB(Grand Unified Bootloader)***   
+  組込みシステムの場合は ***U-boot*** を使うことが一般的
+
   ### 共有ライブラリ管理
 
   </div>
