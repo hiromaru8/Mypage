@@ -57,16 +57,16 @@ title: LPIC
   <!-- right--------------------------------- -->
   <div class="column-right">
 
-    ### Linuxの起動とシャットダウン
-    #### 起動時のイベントの確認
-      - dmesg
-      - jounalctl -k
-    #### システムのシャットダウンと再起動
-      - shutdown
-    ### SysVinit
-      - /etc/inittab ファイル
+  ### Linuxの起動とシャットダウン
+  #### 起動時のイベントの確認
+    - dmesg
+    - jounalctl -k
+  #### システムのシャットダウンと再起動
+    - shutdown
+  ### SysVinit
+    - /etc/inittab ファイル
   
-    ### systemd
+  ### systemd
 
   </div>
 </div>
@@ -90,6 +90,7 @@ title: LPIC
 - インスタンス
 
   <div class="column-left">
+
   ### ハードディスクのレイアウト設計
 
   #### Linuxのインストールに必要なパーティション
