@@ -70,6 +70,9 @@ title: FPGA
   1. <a href="http://zakii.la.coocan.jp/hdl/index.htm" target="_blank">HDLによるFPGA設計</a>	
   1. <a href="http://zakii.la.coocan.jp/hls/index.htm" target="_blank">CによるFPGA設計</a>	
 
+  ## VHDL
+  1. <a href="https://tetsufuku-blog.com/vhdl-package/" target="_blank">VHDL文法 パッケージ読み込み</a>	
+
   </div>
   <!-- right--------------------------------- -->
   <div class="column-right">
@@ -82,6 +85,10 @@ title: FPGA
   1. <a href="https://www.wti.jp/contents/blog/blog210106.htm" target="_blank">非同期入力はメタステーブル対策が必要</a>  
     
   </div>
+
+
+
+
 </div>
 <!-- ---------------------------------------------------------------------------------------------------- -->
 <!-- セクション -->
