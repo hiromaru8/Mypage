@@ -83,6 +83,17 @@ title: FPGA
   1. <a href="https://support.xilinx.com/s/question/0D52E00006hphbiSAA/how-much-time-the-metastable-state-remains-?language=ja" target="_blank">How much time the metastable state remains ?</a>  
     私の質問は簡単です。FPGA ターゲット (Ultrascale および Ultrascale\+) に従って準安定状態がどのくらいの時間維持されるか知っていますか?
   1. <a href="https://www.wti.jp/contents/blog/blog210106.htm" target="_blank">非同期入力はメタステーブル対策が必要</a>  
+  1. <a href="https://www.macnica.co.jp/business/semiconductor/articles/pdf/ELS0320_S000_10__1.pdf" target="_blank">ALTERAデバイスのメタスタビリティ</a>  
+     - ２ メタスタビリティとは 
+     - ３ メタスタビリティの動作 
+     - ４ メタスタビリティの解析 
+     - ５ ALTERAデバイスのメタスタビリティ特性 
+     - ６ メタスタビリティの計算例 
+     - ７ メタスタビリティの回避策 
+     - ７-１ 同期用フリップ・フロップの使用 
+     - ７-２ FIFOバッファーの使用
+     - ７-３ 同期化によるレイテンシの増加を克服 
+     - ８ メタスタビリティのシステムへの影響
     
   </div>
 
