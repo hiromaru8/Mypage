@@ -78,12 +78,14 @@ title: FPGA
   <div class="column-right">
 
   ## メタステーブル  
-  1. <a href="https://qiita.com/nv-h/items/3968f033404ca7e3704b" target="_blank">個人的によく使うベンダー(Xilinx, Intel)依存のHDL attribute</a>  
-  1. <a href="https://dora.bk.tsukuba.ac.jp/~takeuchi/?%E9%9B%BB%E6%B0%97%E5%9B%9E%E8%B7%AF%2FHDL%2F%E9%9D%9E%E5%90%8C%E6%9C%9F%E4%BF%A1%E5%8F%B7%E3%82%92%E6%89%B1%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E5%8D%B1%E3%81%86%E3%81%84Verilog%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA" target="_blank">非同期信号を扱うための危ういVerilogライブラリ</a>  
-  1. <a href="https://support.xilinx.com/s/question/0D52E00006hphbiSAA/how-much-time-the-metastable-state-remains-?language=ja" target="_blank">How much time the metastable state remains ?</a>  
+  1. <a href="https://docs.xilinx.com/v/u/ja-JP/ug912-vivado-properties" target="_blank">Vivado Design Suite プロパティ リファレンス ガイド (UG912)</a>  
+    第 3 章: 主なプロパティの説明 ASYNC_REG
+  2. <a href="https://qiita.com/nv-h/items/3968f033404ca7e3704b" target="_blank">個人的によく使うベンダー(Xilinx, Intel)依存のHDL attribute</a>  
+  3. <a href="https://dora.bk.tsukuba.ac.jp/~takeuchi/?%E9%9B%BB%E6%B0%97%E5%9B%9E%E8%B7%AF%2FHDL%2F%E9%9D%9E%E5%90%8C%E6%9C%9F%E4%BF%A1%E5%8F%B7%E3%82%92%E6%89%B1%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E5%8D%B1%E3%81%86%E3%81%84Verilog%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA" target="_blank">非同期信号を扱うための危ういVerilogライブラリ</a>  
+  4. <a href="https://support.xilinx.com/s/question/0D52E00006hphbiSAA/how-much-time-the-metastable-state-remains-?language=ja" target="_blank">How much time the metastable state remains ?</a>  
     私の質問は簡単です。FPGA ターゲット (Ultrascale および Ultrascale\+) に従って準安定状態がどのくらいの時間維持されるか知っていますか?
-  1. <a href="https://www.wti.jp/contents/blog/blog210106.htm" target="_blank">非同期入力はメタステーブル対策が必要</a>  
-  1. <a href="https://www.macnica.co.jp/business/semiconductor/articles/pdf/ELS0320_S000_10__1.pdf" target="_blank">ALTERAデバイスのメタスタビリティ</a>  
+  5. <a href="https://www.wti.jp/contents/blog/blog210106.htm" target="_blank">非同期入力はメタステーブル対策が必要</a>  
+  6. <a href="https://www.macnica.co.jp/business/semiconductor/articles/pdf/ELS0320_S000_10__1.pdf" target="_blank">ALTERAデバイスのメタスタビリティ</a>  
      - ２ メタスタビリティとは 
      - ３ メタスタビリティの動作 
      - ４ メタスタビリティの解析 
