@@ -33,7 +33,10 @@ title: Linux
 
   <!-- right--------------------------------- -->
   <div class="column-right">
-  ### test
+  ### 
+  1. <a href="https://zenn.dev/miwarin/articles/f96e090e2286d3" target="_blank">AArch64 とか arm64 の名前が混乱する</a>
+
+  
   </div>
 
 </div>
