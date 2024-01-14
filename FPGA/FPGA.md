@@ -167,7 +167,9 @@ title: FPGA
   # 雑多なメモ
   <!-- left--------------------------------- -->
   <div class="column-left">
-  
+
+  [BRAMについて](BRAM/bram.md)
+
 
   
   </div>
