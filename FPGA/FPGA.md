@@ -24,7 +24,15 @@ title: FPGA
 # AMD 公式
   <!-- left--------------------------------- -->
   <div class="column-left">
-
+  
+  1. <a href="https://support.xilinx.com/s/question/0D52E00006xR6q3SAC/axi-basic-blog-series?language=ja" target="_blank">AXI Basic Blog Series</a>	
+     - AXI の基礎 1 - AXI の概要 
+     - AXI の基礎 2 - AXI Verification IP (AXI VIP) を使用した AXI インターフェイスのシミュレーション 
+     - AXI の基礎 3 - AXI VIP を使用したマスター AXI4-Lite のシミュレーション 
+     - AXI の基礎 4 - AXI4 マスター インターフェイスに AXI VIP をプロトコル チェッカーとして使用 
+     - AXI の基礎 5 - ザイリンクス Vivado IP インテグレーターで使用する AXI4-Lite Sniffer IP の作成 
+     - AXI の基礎 6 - Vitis HLS での AXI4-Lite の概要
+     - AXI の基礎 7 - AXI4-Lite と Vitis HLS を使用した PS への接続 
 
   </div>
   <!-- right--------------------------------- -->
