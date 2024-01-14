@@ -25,6 +25,7 @@ title: FPGA
   <!-- left--------------------------------- -->
   <div class="column-left">
   
+  1. <a href="https://docs.xilinx.com/p/design-hubs-j" target="_blank">デザインハブ</a>	
   1. <a href="https://support.xilinx.com/s/question/0D52E00006xR6q3SAC/axi-basic-blog-series?language=ja" target="_blank">AXI Basic Blog Series</a>	
      - AXI の基礎 1 - AXI の概要 
      - AXI の基礎 2 - AXI Verification IP (AXI VIP) を使用した AXI インターフェイスのシミュレーション 
@@ -56,6 +57,9 @@ title: FPGA
   1. <a href="http://nahitafu.cocolog-nifty.com/nahitafu/2019/05/post-60422b.html" target="_blank">Vivadoのプロジェクトをgitで管理する最小限は何か</a>	  
   1. <a href="https://marsee101.blog.fc2.com/blog-entry-4545.html" target="_blank">なひたふさんの「Vivadoのプロジェクトをgitで管理する最小限は何か」を参考にしてVivado のプロジェクトをTCLファイルで復元した</a>	  
 
+  ## IPコアの作成
+  
+  1. <a href="https://www.acri.c.titech.ac.jp/wordpress/archives/tag/ip%e3%82%a4%e3%83%b3%e3%83%86%e3%82%b0%e3%83%ac%e3%83%bc%e3%82%bf" target="_blank">ACRI IPインテグレータ</a>	
   </div>
   <!-- right--------------------------------- -->
   <div class="column-right">
@@ -116,7 +120,29 @@ title: FPGA
     
   </div>
 
+<!-- ---------------------------------------------------------------------------------------------------- -->
+<!-- セクション -->
+<div class="column-one">
+<!-- ---------------------------------------------------------------------------------------------------- -->
 
+# テストベンチ
+
+  <div class="column-left">
+  
+  ## AXI4
+
+  1. <a href="https://qiita.com/HoriThe3rd/items/03efbc37aa44eb2d2088" target="_blank">AXI Verification IPを使って任意のアドレスにデータを書き込む</a>  
+    AXI VIP と　AXI BRAM Controller　の組み合わせ  
+
+
+
+  </div>
+
+  <!-- right--------------------------------- -->
+  <div class="column-right">
+
+  </div>
+</div>
 
 
 </div>
