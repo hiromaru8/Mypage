@@ -99,7 +99,16 @@ title: トップページ
   # 雑多なメモ
   <!-- left--------------------------------- -->
   <div class="column-left">
-  - none
+  
+  ## 学習予定覚書
+
+  - PythonとGUIアプリ (Tkinter)
+  - 数学のやりなおし（Pythonで学び、FPGAでの実装も考える）
+    1. <a href="https://www.zep.co.jp/nbeppu/web_seminar/mathematics1/index.html" target="_blank">三角関数や指数・対数関数，微分・積分の基礎からテイラー展開，オイラーの公式まで</a>	
+    1. <a href="https://www.zep.co.jp/nbeppu/movie/z-pymath-on2/" target="_blank">フーリエ級数の基礎からフーリエ変換，ラプラス変換，線形システムの伝達関数まで</a>	
+  - 高位合成（VitisHLS）
+  - シリアル通信（インターフェイスマガジン）
+
 
   </div>
   <!-- right--------------------------------- -->
