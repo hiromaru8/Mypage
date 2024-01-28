@@ -31,6 +31,10 @@ title: 回路設計とか
   <!-- right--------------------------------- -->
   <div class="column-right">
 
+    # PLL
+
+  1. <a href="https://kobaweb.ei.st.gunma-u.ac.jp/lecture/20190723_motozawa.pdf" target="_blank">第387回 群馬大学アナログ集積回路研究会 PLL設計の基礎</a>	
+
   </div>
 </div>
 
