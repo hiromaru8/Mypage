@@ -51,7 +51,8 @@ title: Linux
   <!-- left--------------------------------- -->
   <div class="column-left">
 
-  1. <a href="https://qiita.com/yumenomatayume/items/bd36f3c51cce33191f51" target="_blank">Linuxで動かすスクリプトの1行目の設定</a>
+　1. <a href="https://qiita.com/osw_nuco/items/a5d7173c1e443030875f" target="_blank">【永久保存版】シェルスクリプト完全攻略ガイド</a>  
+  2. <a href="https://qiita.com/yumenomatayume/items/bd36f3c51cce33191f51" target="_blank">Linuxで動かすスクリプトの1行目の設定</a>
   </div>
 
   <!-- right--------------------------------- -->
