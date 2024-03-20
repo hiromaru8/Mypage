@@ -127,6 +127,11 @@ title: Linux
   <!-- left--------------------------------- -->
   <div class="column-left">
 
+  1. <a href="https://zenn.dev/msk/scraps/98ab4b21d2c0d1" target="_blank">Linux glibcについて調べた事</a>  
+    - 実行ファイルが使用しているlibcを調べる方法  
+    - libc.soに含まれているglibcのバージョン確認方法  
+　　※/lib/x86_64-linux-gnu/libc.so.6 を実行でもよさそう
+
   </div>
   <!-- right--------------------------------- -->
   <div class="column-right">
