@@ -1,5 +1,8 @@
 # Mypage
 
+[Mypage][1]
+
+
 # 環境構築
 ## 仮想環境構築
 ~~~
@@ -19,9 +22,5 @@ py -m pip freeze
 
 # githubへの同期
 
-~~~
-mkdocs build
-~~~
-を実行し
-siteディレクトリの中身をrootディレクトリへ移動
 
+[1]:site/index.html
