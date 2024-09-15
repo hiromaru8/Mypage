@@ -1,5 +1,6 @@
 # Mypage
 
+
 [Mypage][1]
 
 
@@ -23,4 +24,4 @@ py -m pip freeze
 # githubへの同期
 
 
-[1]:site/index.html
+[1]:./site/index.html
