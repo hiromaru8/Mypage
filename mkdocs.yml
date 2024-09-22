@@ -24,21 +24,21 @@ nav:
   - Top page    : index.md
   - hardware    : Hardware/hardware.md
   - OS :
-      Linux     : 
-        top     : OS/Linux/Linux.md
-        LPIC    : OS/Linux/LPIC.md
+      - Linux : 
+        - OS/Linux/Linux.md
+        - LPIC    : OS/Linux/LPIC.md
   - Programing  : 
-      C/C++     : Programing/C_Cplusplus/C_Cplusplus.md
-      Python    : Programing/Python/python.md
+      - C/C++     : Programing/C_Cplusplus/C_Cplusplus.md
+      - Python    : Programing/Python/python.md
   - FPGA        : 
-      top       : FPGA/FPGA.md
-      BRAM      : FPGA/BRAM/bram.md
-      ZYNQ      : FPGA/Zynq/Zynq.md
+      - FPGA/FPGA.md
+      - BRAM      : FPGA/BRAM/bram.md
+      - ZYNQ      : FPGA/Zynq/Zynq.md
   - プロジェクト管理 :
-      Git       : mngPrg/git/git.md
+      - Git       : mngPrg/git/git.md
   - ドキュメント: 
-      markdown  : document/markdown/markdown.md
+      - markdown  : document/markdown/markdown.md
   - Device      : 
-      Rasberry Pi : divice\RaspberryPi\RaspberryPi.md
+      - Rasberry Pi : divice\RaspberryPi\RaspberryPi.md
   - TCP/IP      :
-      Wireshark : TCPIP\Wireshark\wireshark.md
+      - Wireshark : TCPIP\Wireshark\wireshark.md
