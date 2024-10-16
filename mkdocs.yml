@@ -42,3 +42,5 @@ nav:
       - Rasberry Pi : divice\RaspberryPi\RaspberryPi.md
   - TCP/IP      :
       - Wireshark : TCPIP\Wireshark\wireshark.md
+  - Memo :
+    - memo : memo/index.md
