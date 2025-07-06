@@ -42,5 +42,11 @@ nav:
       - Rasberry Pi : divice\RaspberryPi\RaspberryPi.md
   - TCP/IP      :
       - Wireshark : TCPIP\Wireshark\wireshark.md
+  - 設計書  :
+    - 基本設計書  : design_doc/1_base_design_doc_1.md
+    - 詳細設計書  : design_doc/2_detail_design_doc_1.md
+    - sample :
+      - 基本設計 : design_doc\sample\1_base_sample.md
+      - 詳細設計 : design_doc\sample\2_detaile_sample.md
   - Memo :
     - memo : memo/index.md
