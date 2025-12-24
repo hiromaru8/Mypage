@@ -50,5 +50,8 @@ nav:
       - 詳細設計 : design_doc\sample\2_detaile_sample.md
   - モデルベースデザイン :
       - MBD : mbd/index.md
+  - Git :
+      - git : git/index.md
+      - ブランチ運用 : git/project_branch.md
   - Memo :
     - memo : memo/index.md
