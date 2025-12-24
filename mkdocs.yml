@@ -48,5 +48,7 @@ nav:
     - sample :
       - 基本設計 : design_doc\sample\1_base_sample.md
       - 詳細設計 : design_doc\sample\2_detaile_sample.md
+  - モデルベースデザイン :
+      - MBD : mbd/index.md
   - Memo :
     - memo : memo/index.md
