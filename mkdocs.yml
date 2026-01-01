@@ -55,3 +55,5 @@ nav:
       - ブランチ運用 : git/project_branch.md
   - Memo :
     - memo : memo/index.md
+  - about me : 
+    - 2025 : aboutme/2025.md
