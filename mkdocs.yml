@@ -55,3 +55,4 @@ nav:
       - ブランチ運用 : git/project_branch.md
   - Memo :
     - memo : memo/index.md
+    - memo2 : memo/event/kokubetushiki.md

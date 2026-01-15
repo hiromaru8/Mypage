@@ -1,0 +1,26 @@
+@startuml
+title bugfix / hotfix の使い分け
+
+rectangle "develop" as develop
+rectangle "bugfix/*\n(試験工程のバグ修正)" as bugfix
+rectangle "main" as main
+rectangle "hotfix/*\n(本番障害)" as hotfix
+
+develop --> bugfix : 試験でバグ検出
+bugfix --> develop : PR\n修正反映
+
+main --> hotfix : 本番障害
+hotfix --> main : 緊急反映
+hotfix --> develop : 修正を還流
+
+note right of bugfix
+・本番未影響
+・期限は緊急でない
+end note
+
+note right of hotfix
+・本番影響あり
+・最優先
+end note
+
+@enduml
