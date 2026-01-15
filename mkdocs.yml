@@ -56,3 +56,5 @@ nav:
   - Memo :
     - memo : memo/index.md
     - memo2 : memo/event/kokubetushiki.md
+  - about me : 
+    - 2025 : aboutme/2025.md
