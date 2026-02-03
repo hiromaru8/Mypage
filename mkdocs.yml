@@ -53,6 +53,9 @@ nav:
   - Git :
       - git : git/index.md
       - ブランチ運用 : git/project_branch.md
+      - ブランチ運用マージ手順 : git/branch_marge.md
+      - クローン: git/clone.md
+      - ゴミ完全削除 : git/dell_gomi.md
   - Memo :
     - memo : memo/index.md
     - memo2 : memo/event/kokubetushiki.md
