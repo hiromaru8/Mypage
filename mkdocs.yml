@@ -56,6 +56,10 @@ nav:
       - ブランチ運用マージ手順 : git/branch_marge.md
       - クローン: git/clone.md
       - ゴミ完全削除 : git/dell_gomi.md
+  - 教育 :
+      - 概要 : education/index.md
+      - Cコード説明要領 : education/explanation.md
+      - Q&A : education/q_and_a.md
   - Memo :
     - memo : memo/index.md
     - memo2 : memo/event/kokubetushiki.md
